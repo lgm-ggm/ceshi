@@ -3,7 +3,7 @@
 int main()
 {
   printf("hello lgm\n");
-
+  printf("ÄãºÃ");
 
   return 0;
 }
