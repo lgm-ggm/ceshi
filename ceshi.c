@@ -2,8 +2,8 @@
 #include <stdlib.h>
 int main()
 {
-  printf("hello lgm\n");
-  printf("你好");
+
+  printf("第三次操作");
 
   return 0;
 }
